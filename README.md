@@ -1,4 +1,4 @@
-# MAMS Backend
+# MAMS Backend: military-asset-management-backend
 
 Spring Boot 3 REST API, built with Java 17 and Maven.
 
